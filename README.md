@@ -15,5 +15,5 @@ Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 
-About Me
+About Me :
 Hi there! I'm Ziad Goda. I’m a computer science and AI student in Capital university 
